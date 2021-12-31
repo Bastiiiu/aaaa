@@ -1,8 +1,8 @@
 module.exports = {
     app: {
-        px: '"',
-        token: 'ODgwMTkwMTUwMTM3Nzc0MDkw.YSaq9A.HpoH-mHVRJKpcfxn4-3z2AyKchA',
-        playing: 'Bast te meo'
+        px: '=',
+        token: 'OTI2NTA4Njk0MjExMDEwNTYw.Yc8sdg.3ixOTIjxmfjNI_5jErzQArFJ7Go',
+        playing: 'saludo pa los fanes'
     },
 
     opt: {
